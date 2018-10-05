@@ -6,7 +6,7 @@
 }
 
 #gameBoard tr td.alive {
-    background-color: #606;
+    background-color: #F0F;
 }
 
 .commands {
